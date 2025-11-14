@@ -4,9 +4,7 @@
 <b>Discipline | <b>Fill your discipline name here
 :--|:--|
 <b> Lab| <b> Virtul Lab
-<b> Experiment|     <b>  Allow users to interact 
-with virtual switches and a 
-charging source.
+<b> Experiment|     <b>  Allow users to interact with virtual switches and a charging source.
 
 ### About the Experiment 
 
